@@ -3,7 +3,7 @@
 I'm a frontend developer that's experimenting with backend development
 
 ### Projects
-- <a><img align="center" height="50" src="https://i.ibb.co/QNh3mHk/app-logo.png"></a>
+- HQ RECREATE
 
 ### Languages & Tools
 
