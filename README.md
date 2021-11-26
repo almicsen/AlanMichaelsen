@@ -3,7 +3,7 @@
 I'm a frontend developer that's experimenting with backend development
 
 ### Projects
-- HQ RECREATE
+- TBA
 
 ### Languages & Tools
 
