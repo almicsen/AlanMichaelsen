@@ -1,9 +1,9 @@
 ## Hello, I am Alan!
 
-I'm a frontend developer that's experimenting with backend development
+I'm a frontend developer who's experimenting with backend development
 
 ### Projects
-- TBA
+- null
 
 ### Languages & Tools
 
