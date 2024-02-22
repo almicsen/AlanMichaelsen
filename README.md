@@ -6,7 +6,6 @@ Frontend Web Developer
 
 * 🌍  I'm based in the united states
 * 🧠  I'm learning Nothing New
-* ⚡  I’ve been playing the Clarinet for 6 years, in my pastime I chatting with friends as they give me purpose.
 
 ### Skills
 
